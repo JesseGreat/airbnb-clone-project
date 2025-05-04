@@ -26,3 +26,17 @@ Implements advanced security measures to protect the application from vulnerabil
 
 ### Project Manager
 Coordinates the team, manages timelines, and ensures the project meets its goals. They act as a bridge between stakeholders and the development team.
+
+## Technology Stack
+
+### Django
+A high-level Python web framework used for building robust and scalable web applications. In this project, Django is utilized to develop RESTful APIs and manage backend logic.
+
+### GraphQL
+A query language for APIs that allows clients to request only the data they need. It is used in this project to enable efficient and flexible data fetching.
+
+### PostgreSQL
+A powerful, open-source relational database system. It is used to store and manage the project's data securely and efficiently.
+
+### CI/CD
+Continuous Integration and Continuous Deployment pipelines are implemented to automate testing, building, and deployment processes, ensuring rapid and reliable delivery of updates.
